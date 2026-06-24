@@ -37,7 +37,7 @@ python -m http.server 8080
 npx serve .
 ```
 
-Then visit `http://localhost:8080/kaleidoscope.html`.
+Then visit `https://zahraaabidha.github.io/Kaleidoscope-threejs/kaleidoscope.html`.
 
 ## Tech
 
