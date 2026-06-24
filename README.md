@@ -1,4 +1,4 @@
-# Kaleidoscope
+# Kaleidoscope-threejs
 
 A real-time, GPU-powered kaleidoscope built with WebGL shaders (Three.js). Move your mouse to drift the pattern, drag to spin, and scroll to zoom.
 
